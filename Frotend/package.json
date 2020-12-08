@@ -1,0 +1,27 @@
+{
+  "name": "proyecto_uber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanCruzRoldanAbiakel/Project_Uber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanCruzRoldanAbiakel/Project_Uber/issues"
+  },
+  "homepage": "https://github.com/JuanCruzRoldanAbiakel/Project_Uber#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "expo": "^39.0.5",
+    "react": "^17.0.1",
+    "react-native": "^0.63.4",
+    "react-navigation-stack": "^2.10.2",
+    "react-redux": "^7.2.2"
+  }
+}
